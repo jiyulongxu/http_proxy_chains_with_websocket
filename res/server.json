@@ -1,0 +1,5 @@
+{
+	"cert_file": "./bin/server.crt",
+	"key_file": "./bin/server.key",
+	"port": "12345"
+}

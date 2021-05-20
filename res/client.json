@@ -1,0 +1,5 @@
+{
+	"out_addr": "https://127.0.0.1:12345",
+	"out_ws_addr": "wss://127.0.0.1:12345/http_proxy",
+	"port": "55555"
+}
